@@ -1,7 +1,7 @@
-## SOA Simulator
-VERSION 1.1   :  January 10, 2022
-==
 # SOA Simulator
+VERSION 1.1   :  January 10, 2022
+
+
 
             fourth-order Runge-kutta finite difference simulator for 
             
@@ -15,25 +15,32 @@ VERSION 1.1   :  January 10, 2022
                                  
 
 
-![screenshot](Semiconductor-Optical-Amplifier-SOA.png)
+![alt text](https://github.com/ykhorrami/SemiconductorOpticalAmplifierSimulation/blob/main/Semiconductor-Optical-Amplifier-SOA.jpg)
 
-====
+
+
+
 
 t0  : initial time (starting time)
+
 H0  : initial condition (H(t0))
+
 h   : simulation steps
+
 tp  : FWHM
+
 tauc: carrier recovery time
+
 alfa: linewidth enhancement factor
 
 ein : input energy
+
 L   : length of SOA
 
 g0  : linear gain(1/m)
 
 h0  : unsaturated gain
 
-===
 
 iter: iteration
 
@@ -41,12 +48,12 @@ iter: iteration
 
 
 
-![screenshot](Result_1.png)
+![alt text](https://github.com/ykhorrami/SemiconductorOpticalAmplifierSimulation/blob/main/Result_1.jpg)
 
 
-![screenshot](Result_2.png)
+![alt text](https://github.com/ykhorrami/SemiconductorOpticalAmplifierSimulation/blob/main/Result_2.jpg)
 
 
-![screenshot](Result_3.png)
+![alt text](https://github.com/ykhorrami/SemiconductorOpticalAmplifierSimulation/blob/main/Result_3.jpg)
 
 
