@@ -1,4 +1,6 @@
 <img width="953" height="123" alt="image" src="https://github.com/user-attachments/assets/b26699bc-bd9a-4141-8c8b-af051fef527f" />Numerically solving of the SOA 
+Using Rung-Kutta 4 method
+
 
 
 # SOA Simulator
